@@ -1,4 +1,4 @@
-process.env.DB_URI = "mongodb+srv://abhiatwe:Patronum%4013@panghruncluster0.znlllrv.mongodb.net/?retryWrites=true&w=majority";
+process.env.DB_URI = "";
 
 
 const mongoose = require("mongoose");
